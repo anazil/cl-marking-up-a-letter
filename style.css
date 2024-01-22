@@ -1,0 +1,35 @@
+.letter_area{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.main_area{
+    width:850px;
+    height:auto;
+}
+.right{
+    text-align: right;
+    font-weight: 500;
+    font-style: italic;
+    line-height: 20px;
+}
+.left{
+    font-style: italic;
+    font-size: large;
+    font-weight: 400;
+    line-height: 30px;
+}
+font{
+    font-weight: 800;
+    
+}
+c{
+    text-decoration-line: underline;
+    text-decoration-style: dashed;
+}
+pre{
+    font-family: default;
+}
+.padd{
+    padding-left: 25px;
+}
